@@ -1,6 +1,5 @@
 # 💫 About Me:
-Data engineering & analytics use cases for climate technology, food insecurity, and affordable housing.
-
+Transformative Data Engineering Innovations in Climate Tech, Food Insecurity, and Housing Equity
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-j-porter) 
 
