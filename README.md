@@ -20,6 +20,8 @@ Full Stack Data Science & Engineering + BI Developer: Innovations in Civic Tech,
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/tidyverse-%231C91C0.svg?style=for-the-badge&logo=r&logoColor=white)
+![dplyr](https://img.shields.io/badge/dplyr-%231C91C0.svg?style=for-the-badge&logo=r&logoColor=white)
 #### Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,7 +33,7 @@ Full Stack Data Science & Engineering + BI Developer: Innovations in Civic Tech,
 ![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Operating System & Architecture
+#### Operating Systems & Architecture
 ![Arch Linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-%23C70039.svg?style=for-the-badge&logo=arm&logoColor=white)
 ![aarch64](https://img.shields.io/badge/aarch64-%23ED1C24.svg?style=for-the-badge&logo=linux&logoColor=white)
@@ -58,7 +60,7 @@ Full Stack Data Science & Engineering + BI Developer: Innovations in Civic Tech,
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 #### Hardware & Acceleration
 ![NVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-#### Research Methods & Statistical Learning
+#### Research Design & Statistical Learning
 ![PCA](https://img.shields.io/badge/PCA-Principal_Component_Analysis-blue?style=for-the-badge)
 ![Univariate Analysis](https://img.shields.io/badge/Univariate_Analysis-green?style=for-the-badge)
 ![Multivariate Analysis](https://img.shields.io/badge/Multivariate_Analysis-yellow?style=for-the-badge)
