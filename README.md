@@ -1,5 +1,5 @@
 # 💫 About Me:
-Transformative Data Engineering Innovations in Civic Tech, Food Insecurity, and Housing Equity
+Full Stack Data Science & Engineering + BI Developer: Innovations in Civic Tech, Food Insecurity, and Housing Equity
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-j-porter) 
 
