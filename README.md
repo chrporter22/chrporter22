@@ -3,7 +3,7 @@ Full Stack Data Science & ML Engineering + BI Developer: Innovations in Civic Te
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-j-porter) 
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 <!-- Programming Languages & Tools -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
