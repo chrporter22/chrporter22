@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Data Science & Engineering + BI Developer: Innovations in Civic Tech, Food Insecurity, and Housing Equity
+Full Stack Data Science & ML Engineering + BI Developer: Innovations in Civic Tech, Food Insecurity, and Housing Equity
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-j-porter) 
 
@@ -32,7 +32,6 @@ Full Stack Data Science & Engineering + BI Developer: Innovations in Civic Tech,
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 #### Operating Systems & Architecture
 ![Arch Linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-%23C70039.svg?style=for-the-badge&logo=arm&logoColor=white)
@@ -48,7 +47,6 @@ Full Stack Data Science & Engineering + BI Developer: Innovations in Civic Tech,
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)
 #### Cloud Platforms
-![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0072C6?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Azure Gov](https://img.shields.io/badge/Azure%20Gov-%230072C6.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -60,7 +58,7 @@ Full Stack Data Science & Engineering + BI Developer: Innovations in Civic Tech,
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 #### Hardware & Acceleration
 ![NVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-#### Research Design & Statistical Learning
+#### Research Design & Statistics
 ![PCA](https://img.shields.io/badge/PCA-Principal_Component_Analysis-blue?style=for-the-badge)
 ![Univariate Analysis](https://img.shields.io/badge/Univariate_Analysis-green?style=for-the-badge)
 ![Multivariate Analysis](https://img.shields.io/badge/Multivariate_Analysis-yellow?style=for-the-badge)
