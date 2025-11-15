@@ -1,8 +1,8 @@
-# 💫 About Me:
-Full Stack Data Science & ML Engineering + BI Developer: Innovations in Civic Tech, Food Insecurity, and Housing Equity
-## 🌐 Socials:
+# About Me:
+Full Stack Data Scientist & Business Intelligence Developer: Innovations in Civic Tech, Food Security, and Housing Equity
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-j-porter) 
-## 💻 Tech Stack:
+## Tech Stack:
 
 #### Data Science & ML Frameworks
 <!-- Programming Languages & Tools -->
@@ -62,7 +62,7 @@ Full Stack Data Science & ML Engineering + BI Developer: Innovations in Civic Te
 ![Univariate Analysis](https://img.shields.io/badge/Univariate_Analysis-green?style=for-the-badge)
 ![Multivariate Analysis](https://img.shields.io/badge/Multivariate_Analysis-yellow?style=for-the-badge)
 ![Linear Regression](https://img.shields.io/badge/Linear_Regression-red?style=for-the-badge)
-![Time Series](https://img.shields.io/badge/Time_Series-forecasting-orange?style=for-the-badge)
+![Time Series Forecasting](https://img.shields.io/badge/Time_Series-forecasting-orange?style=for-the-badge)
 ![Gaussian Models](https://img.shields.io/badge/Gaussian_Models-purple?style=for-the-badge)
 ![ANOVA](https://img.shields.io/badge/ANOVA-blueviolet?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-natural_language_processing-brightgreen?style=for-the-badge)
